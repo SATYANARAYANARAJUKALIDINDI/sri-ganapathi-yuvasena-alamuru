@@ -48,3 +48,26 @@ footer {
   color: white;
   padding: 10px;
 }
+
+register form {
+  max-width: 500px;
+  margin: auto;
+  text-align: left;
+}
+
+#register input, #register textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+#register button {
+  background-color: #ff9933;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
